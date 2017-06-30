@@ -1,0 +1,37 @@
+html{
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 18px;
+  color: white;
+}
+.description{
+  font-size: 14px;
+}
+.information{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.directory{
+  background-color: dimgray;
+}
+.copyright{
+  font-size: 11px;
+}
