@@ -1,11 +1,11 @@
 html{
   font-family: Helvetica;
+  text-align: center;
 }
 
 h1{
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
 
 h2{
@@ -17,8 +17,14 @@ h3{
   font-size: 23px;
   font-weight: bold;
 }
+a{
+  color: white;
+}
 p{
   font-size: 18px;
+}
+.header{
+  background-image: url("/Users/Salvatore/projects/Broadway/resources/images/flatiron.png");
   color: white;
 }
 .description{
@@ -28,9 +34,12 @@ p{
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("/Users/Salvatore/projects/Broadway/resources/images/flatiron.png");
 }
 .directory{
   background-color: dimgray;
+  text-align: left;
+  color: white;
 }
 .copyright{
   font-size: 11px;
